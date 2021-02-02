@@ -1,4 +1,4 @@
-#Installing keepalived
+#Installing keepalived<br/>
 root@Controller01:~#apt-get install keepalived 
 root@Controller01:~#vim etc/keepalived/keepalive.conf
 global_defs {<br/>
