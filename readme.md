@@ -1,6 +1,6 @@
 #Installing keepalived<br/>
-root@Controller01:~#apt-get install keepalived 
-root@Controller01:~#vim etc/keepalived/keepalive.conf
+root@Controller01:~# apt-get install keepalived <br/>
+root@Controller01:~# vim etc/keepalived/keepalive.conf<br/>
 global_defs {<br/>
 router_id xit<br/>
 }<br/>
